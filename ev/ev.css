@@ -1,0 +1,29 @@
+body{
+    background-image: url(/f1/x.jpg);
+    background-repeat: no-repeat;
+    opacity: 95%;
+   
+  }
+  .container{
+      display: flex;
+      margin-top: 150px;
+      gap: 15px;
+      justify-content: space-around;
+    
+  }
+  
+  .card-body h5{
+      font-weight: 900;
+  
+  }
+  .card-body p{
+      font-weight: 700;
+      
+  }
+  .card:hover{
+    scale: 0.97;
+  }
+  
+  
+  
+  

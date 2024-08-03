@@ -1,0 +1,25 @@
+body{
+  background-image: url(x.jpg);
+  background-repeat: no-repeat;
+  opacity: 95%;
+ 
+}
+.container{
+    display: flex;
+    gap: 10px;
+    justify-content: space-around;
+}
+.card-body h5{
+    font-weight: 900;
+
+}
+.card-body p{
+    font-weight: 700;
+    
+}
+.card:hover{
+  scale: 0.97;
+}
+
+
+
